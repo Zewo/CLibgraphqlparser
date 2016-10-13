@@ -1,1 +1,1 @@
-#import <GraphQLParser.h>
+#import <c/GraphQLParser.h>
