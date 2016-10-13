@@ -1,0 +1,5 @@
+module CLibgraphqlparser [system] {
+  header "CLibgraphqlparser.h"
+  link "libgraphqlparser"
+  export *
+}
